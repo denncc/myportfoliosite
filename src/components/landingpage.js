@@ -14,10 +14,10 @@ class Landing extends Component {
                         <div className = "banner-text">
                             <h1>A Man Living His Life</h1>
                             <hr/>
-                            <p>Specialty1 | Specialty2 | Specialty3 | Specialty4</p>
+                            <p>Ability | Ability | Ability | Ability</p>
                             <div className = "social-links">
                                 {/* LinkedIn */}
-                                <a href = "https://www.linkedin.com/in/dennis-chengchen-wu-6528171ab" target = "_blank" rel = "noopener noreferer" >
+                                <a href = "https://www.linkedin.com/in/denncc" target = "_blank" rel = "noopener noreferer" >
                                     <i style={{color:"white", fontSize: "5em", padding: "8px"}} 
                                     className = "fa fa-linkedin-square" aria-hidden = "true"/>
                                 </a>
