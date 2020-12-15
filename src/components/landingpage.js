@@ -12,7 +12,7 @@ class Landing extends Component {
                         className = "avatar-img"
                         />
                         <div className = "banner-text">
-                            <h1>A Man Living His Life</h1>
+                            <h1>Dennis Wu</h1>
                             <hr/>
                             <p>Ability | Ability | Ability | Ability</p>
                             <div className = "social-links">

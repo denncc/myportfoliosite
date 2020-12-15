@@ -93,3 +93,8 @@
   width: 50%;
   margin: auto
 }
+
+/* This subsection is on components/projects.js */
+.project-grid{
+  display: flex;
+}
