@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
+import avatarimg from '../resources/B0000117.jpg'
 
 class Landing extends Component {
     render() {
@@ -7,7 +8,7 @@ class Landing extends Component {
             <div style = {{width: '100%', margin: 'auto'}}>
                 <Grid className = "landing-grid">
                     <Cell col={12}>
-                        <img src = "https://images.unsplash.com/photo-1540724487045-f220d0fe3861?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjIxNTV9"
+                        <img src = {avatarimg}
                         alt = "avatar"
                         className = "avatar-img"
                         />
