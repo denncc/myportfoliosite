@@ -17,6 +17,7 @@ With the help of [https://html5up.net/](https://html5up.net/), I'm fine tuning m
 		- [ ] fine tuning
 - [ ] Implement proper attribution: Attribution is required under the [creative commons license](https://html5up.net/license) that came with the website files you downloaded.  Be sure to provide attribution somewhere in the site.  The templates should already come with attribution found in most footers but double check to be sure.
 - [ ] Host your website for the world to see. Follow the instructions found here [https://pages.github.com/](https://pages.github.com/).  Once you have hosted your web page, share it for your peers to see.  This is not a small feat!
+- [ ] embellish the RNN text prediction repo
 
 ### Future incorporation:
 
