@@ -20,6 +20,7 @@ With the help of [https://html5up.net/](https://html5up.net/), I'm fine tuning m
 
 ### Future incorporation:
 
+- [ ] Back end response system of "Get In Touch" section
 - [ ] Photo Gallery
 
 ## Stretch
